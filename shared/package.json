@@ -1,0 +1,10 @@
+{
+  "name": "shared",
+  "version": "1.0.0",
+  "description": "Shared modules for ride-hailing services",
+  "main": "redis.js",
+  "dependencies": {
+    "amqplib": "^0.8.0",
+    "redis": "^4.0.1"
+  }
+}
